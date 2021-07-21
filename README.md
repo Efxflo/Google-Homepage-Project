@@ -1,0 +1,1 @@
+This aim of this porject is to practise HTML and CSS skills learned so far in The Odin Project to create the www.goog.e.com homepage. 
