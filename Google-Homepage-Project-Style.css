@@ -1,0 +1,21 @@
+header {
+    display: grid;
+    padding: 6px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    
+    
+}
+
+.side-nav-container {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+nav {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
